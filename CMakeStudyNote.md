@@ -50,3 +50,4 @@ configure_file(TutorialConfig.h.in TutorialConfig.h)
 ```CMake
 target_include_diretories(tutorial PUBLIC ${CMAKE_BINARY_DIR}$)
 ```
+## 增加一个库
