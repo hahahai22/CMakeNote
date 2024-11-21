@@ -9,7 +9,7 @@ set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 # 生成目标文件tutorial
-add_executable(tutorial tutorial.cxx)
+add_executable(tutorial src/tutorial.cxx)
 
 # 将生成的配置文件所在目录添加到 include 路径，为目标tutorial指定头文件
 target_include_directories(tutorial PRIVATE ${CMAKE_BINARY_DIR})
