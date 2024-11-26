@@ -54,8 +54,11 @@ target_include_diretories(tutorial PUBLIC ${CMAKE_BINARY_DIR}$)
 
 ## execute
 
-## 增加一个库
+## 增加并使用一个库
 
-## 创建库
+## 使用命令`add_library()`增加一个库文件
 
-## 增加选项
+
+
+## 使用命令`subdirectory()`增减子目录
+
