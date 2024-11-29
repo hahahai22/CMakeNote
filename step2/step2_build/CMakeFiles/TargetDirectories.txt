@@ -1,6 +1,0 @@
-/Users/jiaohailong/Desktop/notes_dos/CMakeNote/step2/step2_build/CMakeFiles/Tutorial.dir
-/Users/jiaohailong/Desktop/notes_dos/CMakeNote/step2/step2_build/CMakeFiles/edit_cache.dir
-/Users/jiaohailong/Desktop/notes_dos/CMakeNote/step2/step2_build/CMakeFiles/rebuild_cache.dir
-/Users/jiaohailong/Desktop/notes_dos/CMakeNote/step2/step2_build/MathFunctions/CMakeFiles/MathFunctions.dir
-/Users/jiaohailong/Desktop/notes_dos/CMakeNote/step2/step2_build/MathFunctions/CMakeFiles/edit_cache.dir
-/Users/jiaohailong/Desktop/notes_dos/CMakeNote/step2/step2_build/MathFunctions/CMakeFiles/rebuild_cache.dir
